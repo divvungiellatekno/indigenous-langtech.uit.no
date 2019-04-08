@@ -211,7 +211,12 @@ THEME_CONFIG = {
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "page.tmpl"),
 #     )
 
-POSTS = ()
+POSTS = (
+    ("posts/*.rst", "blog", "post.tmpl"),
+    ("posts/*.txt", "blog", "post.tmpl"),
+    ("posts/*.html", "blog", "post.tmpl"),
+)
+
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),
     ("pages/*.md", "", "page.tmpl"),
