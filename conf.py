@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Divvun & Giellatekno"  # (translatable)
-BLOG_TITLE = "Indigenous langtech"  # (translatable)
+BLOG_TITLE = "Indigenous language technoloy"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://indigenous-langtech.uit.no/"
@@ -25,7 +25,7 @@ SITE_URL = "https://indigenous-langtech.uit.no/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://indigenous-langtech.uit.no/"
 BLOG_EMAIL = "feedback@divvun.no"
-BLOG_DESCRIPTION = "Intro site for indigenous language technology"  # (translatable)
+BLOG_DESCRIPTION = "Indigenous language technology by UiT/The arctic University of Norway"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -137,11 +137,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
-    ),
+    DEFAULT_LANG: (),
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
@@ -215,21 +211,19 @@ THEME_CONFIG = {
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "page.tmpl"),
 #     )
 
-POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
-)
+POSTS = ()
 PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("pages/*.rst", "", "page.tmpl"),
+    ("pages/*.md", "", "page.tmpl"),
+    ("pages/*.txt", "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
 )
 
 
 # Below this point, everything is optional
+
+# And to avoid a conflict because blogs try to generate /index.html
+INDEX_PATH = "blog"
 
 # Post's dates are considered in UTC by default, if you want to use
 # another time zone, please set TIMEZONE to match. Check the available
