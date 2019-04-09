@@ -136,12 +136,21 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-        ("/blog/", "Blog"),
-        ("/rss.xml", "RSS Feed"),
-    ),
-}
+        DEFAULT_LANG: (
+            ('/index.html', 'Home', 'fa fa-home'),
+            ('/archive.html', 'Archives', 'fa fa-folder-open'),
+            ('/categories/index.html', 'Tags', 'fa fa-tags'),
+            ('/rss.xml', 'RSS', 'fa fa-rss'),
+            ('https://getnikola.com', 'About me', 'fa fa-user'),
+            ('https://twitter.com/getnikola', 'My Twitter', 'fab fa-twitter'),
+            ('https://github.com/getnikola', 'My Github', 'fab fa-github'),
+        )
+    }
+
+
+DATE_FANCINESS = 2
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
@@ -151,7 +160,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "zen"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
