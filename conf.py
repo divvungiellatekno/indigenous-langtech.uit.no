@@ -143,9 +143,7 @@ NAVIGATION_LINKS = {
             ('/blog/', 'Blog', 'fa fa-folder-open'),
             ('http://giellatekno.uit.no/doc', 'Technical documentation', 'fa fa-user'),
             ('https://www.facebook.com/Divvun/', 'Divvuns facebook page', 'fab fa-facebook'),
-            ('https://www.facebook.com/groups/264676350297747/', 'Divvuns facebook group', 'fab fa-facebook'),
             ('https://github.com/divvun', 'Divvuns github', 'fab fa-github'),
-            ('https://github.com/giellalt', 'Common github of Divvun and Giellatekno', 'fab fa-github'),
             ('/categories/index.html', 'Tags', 'fa fa-tags'),
             ('/rss.xml', 'RSS', 'fa fa-rss'),
         )
