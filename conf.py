@@ -141,7 +141,7 @@ NAVIGATION_LINKS = {
         DEFAULT_LANG: (
             ('/index.html', 'Home', 'fa fa-home'),
             ('/blog/', 'Blog', 'fa fa-folder-open'),
-            ('http://giellatekno.uit.no/doc', 'Technical documentation', 'fa fa-user'),
+            ('http://divvun.no/doc', 'Technical documentation', 'fa fa-user'),
             ('https://www.facebook.com/Divvun/', 'Divvuns facebook page', 'fab fa-facebook'),
             ('https://github.com/divvun', 'Divvuns github', 'fab fa-github'),
             ('/categories/index.html', 'Tags', 'fa fa-tags'),
