@@ -10,7 +10,7 @@
 .. class:: jumbotron jumbotron-fluid
 
     .. admonition::
-        Language technology groups at UiT/The Arctic University of Norway
+        Language technology groups at `UiT/The Arctic University of Norway <uit.no>`_
 
         `Divvun <http://divvun.no>`_ develops proofing tools and language technology for minority and indigenous languages
 
