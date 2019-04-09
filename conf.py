@@ -140,12 +140,14 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
         DEFAULT_LANG: (
             ('/index.html', 'Home', 'fa fa-home'),
-            ('/archive.html', 'Archives', 'fa fa-folder-open'),
+            ('/blog/', 'Blog', 'fa fa-folder-open'),
+            ('http://giellatekno.uit.no/doc', 'Technical documentation', 'fa fa-user'),
+            ('https://www.facebook.com/Divvun/', 'Divvuns facebook page', 'fab fa-facebook'),
+            ('https://www.facebook.com/groups/264676350297747/', 'Divvuns facebook group', 'fab fa-facebook'),
+            ('https://github.com/divvun', 'Divvuns github', 'fab fa-github'),
+            ('https://github.com/giellalt', 'Common github of Divvun and Giellatekno', 'fab fa-github'),
             ('/categories/index.html', 'Tags', 'fa fa-tags'),
             ('/rss.xml', 'RSS', 'fa fa-rss'),
-            ('https://getnikola.com', 'About me', 'fa fa-user'),
-            ('https://twitter.com/getnikola', 'My Twitter', 'fab fa-twitter'),
-            ('https://github.com/getnikola', 'My Github', 'fab fa-github'),
         )
     }
 
