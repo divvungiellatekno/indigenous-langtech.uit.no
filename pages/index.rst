@@ -58,7 +58,7 @@ This work must be done by each language community (in cooperation with linguists
 How to do it?
 -------------
 
-The GiellaLT infrastructure used by Divvun and Giellatekno provides a language independent framework for building a grammatical model of each language.
+The open and free GiellaLT infrastructure developed and used by Divvun and Giellatekno provides a language independent framework for building a grammatical model of each language.
 The infrastructure takes the model and turns it into computer programs and useful tools for the language community.
 All the technical labour to make the tools work in MS Office, Windows, MacOS and elsewhere is done separately from the linguistic work.
 Each language community can then concentrate on developing the grammatical model.
