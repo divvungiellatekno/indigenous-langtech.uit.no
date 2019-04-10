@@ -45,6 +45,7 @@ This digital divide threatens the existence of many languages — languages with
 The technology and infrastructure behind the linguistic tools above are free and open source.
 Anyone are now free to do what we have done.
 Using this infrastructure, other communities are creating similar tools for indigenous languages in Canada and Russia.
+Best of all, we all cooperate on improving the common infrastructure and tools.
 
 Different language communities and users need different tools, for various reasons.
 Smartphones and social media, however, require some computer processing of any language.
