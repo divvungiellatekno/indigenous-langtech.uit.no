@@ -14,7 +14,7 @@
 
         `Divvun <http://divvun.no>`_ develops proofing tools and language technology for minority and indigenous languages
 
-        `Giellatekno <http://giellatekno.uit.no>`_ specialises in language technology and research on Sámi and other circumpolar and minority languages
+        `Giellatekno <http://giellatekno.uit.no/index.eng.html>`_ specialises in language technology and research on Sámi and other circumpolar and minority languages
 
 No language is too hard for language technology
 ===============================================
