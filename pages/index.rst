@@ -30,7 +30,7 @@ Tools (in increasing complexity)
 * Word analysers
 * Dictionaries with grammars
 * Spellcheckers
-* Mobile phone keyboars w/ spelling checkers
+* Mobile phone keyboards w/ spelling checkers
 * Word form generation
 * Hyphenation
 * Language learning tools
@@ -43,7 +43,7 @@ This excludes these languages from the digitalised modern society as the technic
 This digital divide threatens the existence of many languages — languages without these tools will be digitally non-existent.
 
 The technology and infrastructure behind the linguistic tools above are free and open source.
-Anyone is now free to do what we have done.
+Anyone is now free to do what Divvun and Giellatekno have done.
 Using this infrastructure, other communities are creating similar tools for indigenous languages in Canada and Russia.
 And what's best, we all cooperate on improving the common infrastructure and tools.
 
