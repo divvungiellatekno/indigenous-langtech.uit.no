@@ -42,7 +42,7 @@ The rest of the world’s 7,000 languages are without access to such tools.
 This excludes these languages from the digitalised modern society as the technical solutions used by the majority languages are not available for them.
 This digital divide threatens the existence of many languages — languages without these tools will be digitally non-existent.
 
-Using our infrastructure, other communities have made similar tools for indigenous languages in Canada and Russia.
+Using our infrastructure, other communities are creating similar tools for indigenous languages in Canada and Russia.
 Best of all: our technology and infrastructure are free and open source. Anyone can now do what we have done.
 
 Different language communities and users need different tools, for various reasons.
