@@ -636,7 +636,7 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
     'default': [
-        "rsync -rav --delete output/ bga001@divvun.uit.no:/www/divvun.uit.no/htdocs",
+        "rsync -rav --delete output/ bga001@divvun.uit.no:/www/indigenous-langtech.uit.no/htdocs",
     ]
 }
 
