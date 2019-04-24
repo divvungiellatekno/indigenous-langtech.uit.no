@@ -233,6 +233,8 @@ html {
 body {
   height: 100%;
   background: url('../images/cream-dust.png') #fff;
+  padding-right: 10px;
+  margin-right: 10px;
 }
 section {
   margin: 0;
@@ -1039,7 +1041,7 @@ article.post-text .entry-content {
 }
 article.post-text .entry-content .figure {
   display: block;
-  padding: 4px;
+  padding: 10px;
   line-height: 24px;
   border: 1px solid #ddd;
   -webkit-border-radius: 4px;
