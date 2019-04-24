@@ -16,6 +16,8 @@
 
         `Giellatekno <http://giellatekno.uit.no/index.eng.html>`_ specialises in language technology and research on Sámi and other circumpolar and minority languages
 
+        Meet us Wednesday April 24 at 6.30 pm in CR6 of the `UNPFII18 <https://www.un.org/development/desa/indigenouspeoples/unpfii-sessions-2/18-2.html>`
+
 .. figure:: /images/skrivande_finger_pa_mobiltelefon.png
     :alt: Figure of Saami mobile phone keyboard
     :height: 200 px
@@ -29,8 +31,8 @@ No language is too hard for language technology
 The Sámi languages have a complex grammatical structure and do not have access to huge text collections.
 This situation is shared with most indigenous languages. Still, Divvun and Giellatekno have built all tools below for most of the Sámi languages.
 
-Tools (in increasing complexity)
---------------------------------
+Tools (in order of increasing complexity)
+-----------------------------------------
 
 * Computer keyboards
 * Mobile phone keyboards
