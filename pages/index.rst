@@ -16,6 +16,13 @@
 
         `Giellatekno <http://giellatekno.uit.no/index.eng.html>`_ specialises in language technology and research on Sámi and other circumpolar and minority languages
 
+.. figure:: /images/skrivande_finger_pa_mobiltelefon.png
+    :alt: Figure of Saami mobile phone keyboard
+    :height: 200 px
+    :align: right
+
+    Mobile phone keyboard
+
 No language is too hard for language technology
 ===============================================
 
@@ -42,6 +49,13 @@ The rest of the world’s 7,000 languages are without access to such tools.
 This excludes these languages from the digitalised modern society as the technical solutions used by the majority languages are not available for them.
 This digital divide threatens the existence of many languages — languages without these tools will be digitally non-existent.
 
+.. figure:: /images/NDS_eahtsa.png
+    :alt: Example from Neahttadigisánit
+    :height: 200 px
+    :align: right
+
+    South Saami dictionary
+
 The technology and infrastructure behind the linguistic tools above are free and open source.
 Anyone is now free to do what Divvun and Giellatekno have done.
 Using this infrastructure, other communities are creating similar tools for indigenous languages in Canada and Russia.
@@ -54,6 +68,13 @@ Language technology may strengthen literacy and the use of the language in new d
 
 But there is no silver bullet — good models and tools require a lot of work.
 This work must be done by each language community (in cooperation with linguists and programmers).
+
+.. figure:: /images/nyMTsme_nob.png
+    :alt: Machine translation from North Saami to Norwegian Bokmål
+    :align: right
+    :height: 300px
+
+    Machine translation from North Saami to Norwegian Bokmål
 
 How to do it?
 -------------
