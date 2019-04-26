@@ -16,7 +16,11 @@
 
         `Giellatekno <http://giellatekno.uit.no/index.eng.html>`_ specialises in language technology and research on Sámi and other circumpolar and minority languages
 
-        Meet us Wednesday April 24 at 6.30 pm in CR6 of the `UNPFII18 <https://www.un.org/development/desa/indigenouspeoples/unpfii-sessions-2/18-2.html>`_
+        We held a
+        `presentation <https://indigenous-langtech.uit.no/images/UNPFII18_pres.pdf>`_
+        at the
+        `UNPFII-18 <https://www.un.org/development/desa/indigenouspeoples/unpfii-sessions-2/18-2.html>`_
+        (Wednesday April 24 at 6.30 pm).
 
 .. figure:: /images/skrivande_finger_pa_mobiltelefon.png
     :alt: Figure of Saami mobile phone keyboard
@@ -85,10 +89,3 @@ The open and free GiellaLT infrastructure developed and used by Divvun and Giell
 The infrastructure takes the model and turns it into computer programs and useful tools for the language community.
 All the technical labour to make the tools work in MS Office, Windows, MacOS and elsewhere is done separately from the linguistic work.
 Each language community can then concentrate on developing the grammatical model.
-
-
-Presentation at UN
-==================
-
-`Slides </UNPFII18_pres.pdf>`_
-from the presentation at the 18th Session of the UN Permanent Forum on Indigenous Issues
