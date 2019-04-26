@@ -90,5 +90,5 @@ Each language community can then concentrate on developing the grammatical model
 Presentation at UN
 ==================
 
-`Slides <https://indigenous-langtech.uit.no/images/UNPFII18_pres.pdf>`_
+`Slides </UNPFII18_pres.pdf>`_
 from the presentation at the 18th Session of the UN Permanent Forum on Indigenous Issues
