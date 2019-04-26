@@ -17,7 +17,7 @@
         `Giellatekno <http://giellatekno.uit.no/index.eng.html>`_ specialises in language technology and research on Sámi and other circumpolar and minority languages
 
         We held a
-        `presentation <https://indigenous-langtech.uit.no/images/UNPFII18_pres.pdf>`_
+        `presentation </UNPFII18_pres.pdf>`_
         at the
         `UNPFII-18 <https://www.un.org/development/desa/indigenouspeoples/unpfii-sessions-2/18-2.html>`_
         (Wednesday April 24 at 6.30 pm).
