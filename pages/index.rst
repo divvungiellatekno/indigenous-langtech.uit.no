@@ -10,17 +10,23 @@
 .. class:: jumbotron jumbotron-fluid
 
     .. admonition::
-        Language technology groups at `UiT/The Arctic University of Norway <uit.no>`_
+        Language technology groups at
+        `UiT The Arctic University of Norway <https://uit.no>`_
 
-        `Divvun <http://divvun.no>`_ develops proofing tools and language technology for minority and indigenous languages
+        `Divvun <http://divvun.no>`_ develops proofing tools and language
+        technology for minority and indigenous languages
 
-        `Giellatekno <http://giellatekno.uit.no/index.eng.html>`_ specialises in language technology and research on Sámi and other circumpolar and minority languages
+        `Giellatekno <http://giellatekno.uit.no/index.eng.html>`_ specialises
+        in language technology and research on Sámi and other circumpolar and
+        minority languages
 
-        We held a
-        `presentation </UNPFII18_pres.pdf>`_
-        at the
+        We held a `presentation </UNPFII18_pres.pdf>`_ at the
         `UNPFII-18 <https://www.un.org/development/desa/indigenouspeoples/unpfii-sessions-2/18-2.html>`_
         (Wednesday April 24 at 6.30 pm).
+
+        The `GiellaLT site <https://giellalt.uit.no>`_ contains technical
+        documentation for the infrastructure developed and used by the Divvun
+        and Giellatekno groups.
 
 .. figure:: /images/skrivande_finger_pa_mobiltelefon.png
     :alt: Figure of Saami mobile phone keyboard
