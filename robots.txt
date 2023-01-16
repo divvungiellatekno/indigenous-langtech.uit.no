@@ -1,0 +1,4 @@
+Sitemap: https://indigenous-langtech.uit.no/sitemapindex.xml
+
+User-Agent: *
+Host: indigenous-langtech.uit.no
