@@ -54,6 +54,7 @@ Tools (in order of increasing complexity)
 * Hyphenation
 * Language learning tools
 * Grammar checkers
+* Speech synthesis
 * Machine translation
 
 Computer tools mainly exist for a few handfuls of majority languages today.
