@@ -661,7 +661,7 @@ DEPLOY_COMMANDS = {
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
 GITHUB_SOURCE_BRANCH = "main"
-GITHUB_DEPLOY_BRANCH = "gh-pages"
+# GITHUB_DEPLOY_BRANCH = "gh-pages"
 
 # The name of the remote where you wish to push to, using github_deploy.
 GITHUB_REMOTE_NAME = "origin"
