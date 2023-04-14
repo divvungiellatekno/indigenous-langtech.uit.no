@@ -141,8 +141,12 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home", "fa fa-home"),
         ("/blog/", "Blog", "fa fa-folder-open"),
-        ("https://giellalt.github.io", "GiellaLT Home Page", "fab fa-user"),
-        ("https://giella.zulipchat.com", "GiellaLT Zulip Chats", "fab fa-zulip"),
+        ("https://giellalt.github.io", "GiellaLT Home Page", "fa fa-info-circle"),
+        (
+            "https://giella.zulipchat.com",
+            "GiellaLT Zulip Chats",
+            "far fa-comment-alt",
+        ),
         (
             "https://www.facebook.com/Divvun/",
             "Divvuns Facebook page",
