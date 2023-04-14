@@ -39,7 +39,7 @@ No language is too hard for language technology
 ===============================================
 
 The Sámi languages have a complex grammatical structure and do not have access to huge text collections.
-This situation is shared with most indigenous languages. Still, Divvun and Giellatekno have built all tools below for most of the Sámi languages.
+This situation is shared with most indigenous languages. Still, Divvun and Giellatekno have built or are building all tools below for most of the Sámi languages.
 
 Tools (in order of increasing complexity)
 -----------------------------------------
